@@ -116,9 +116,20 @@
     margin-bottom: 50px;
     transition: transform 0.5s;
   }
-  
+  .col-4 pre{
+    flex-basis: 25%;
+    padding: 10px;
+    min-width: 200px;
+    margin-bottom: 50px;
+    transition: transform 0.5s;
+  }
   .col-4 img {
-    width: 100%;
+    width: 220px;
+    height: 200px;
+  }
+  .col-4 p{
+    
+  
   }
   
   .title {
