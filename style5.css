@@ -29,6 +29,9 @@
     margin-right: 30px;
   }
   
+  #id{
+    border: #ff523b;
+  }
   a {
     text-decoration: none;
     color: #555;
