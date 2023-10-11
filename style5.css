@@ -11,9 +11,10 @@
   }
 
   .navbar {
-    flex-direction: column;
+    flex-direction: row;
     text-align: center;
     padding: 20px;
+    border: 1px solid black;
   }
 
   .navbar img.menu-icon {
@@ -126,6 +127,7 @@
   
   .header {
     background: radial-gradient(#fff, #ffd6d6);
+    
   }
   
   .header .row {
