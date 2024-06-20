@@ -350,7 +350,7 @@
     margin-left: 20px;
     display: none;
   }
-  /* Media Quer for menu */
+  /*Media query for menu*/
   
   @media only screen and (max-width: 800px) {
     nav ul {
