@@ -614,3 +614,7 @@
     transform: translateX(100px);
     transition: transform 1s;
   }
+  #ad{
+    height: max-content;
+    width: max-content;
+  }
